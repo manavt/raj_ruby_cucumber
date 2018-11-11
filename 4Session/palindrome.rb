@@ -5,5 +5,7 @@ class Raj
 end
 
 
+# string = STDIN.gets.chomp
+
 r = Raj.new
 puts r.is_palindrome?("mommy")
